@@ -1,0 +1,1 @@
+<img src="{SOURCE}"  alt="{ALT}" width="300" height="153"/>

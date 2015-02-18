@@ -1,0 +1,1 @@
+<input type="button" onclick="{ONCLICK}" id="{BUTTONID}" name="{BUTTONNAME}" value="{BUTTONTEXT}"/>

@@ -1,0 +1,1 @@
+<input type="{INPUTTYPE}" name="{INPUTNAME}" placeholder="{INPUTPLACEHOLDER}" value="{INPUTVALUE}" />

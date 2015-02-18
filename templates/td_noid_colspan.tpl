@@ -1,0 +1,1 @@
+<td colspan={COLSPAN}>{TDCONTENT}</td>

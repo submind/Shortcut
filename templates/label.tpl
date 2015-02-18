@@ -1,0 +1,1 @@
+<label for="{LABELID}">{LABELTEXT}</label>

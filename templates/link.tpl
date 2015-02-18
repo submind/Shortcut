@@ -1,0 +1,1 @@
+<a href="{LINK}">{LINKVALUE}</a>

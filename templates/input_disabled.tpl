@@ -1,0 +1,1 @@
+<input type="{INPUTTYPE}" id="{INPUTID}" name="{INPUTNAME}" placeholder="{INPUTPLACEHOLDER}" value="{INPUTVALUE}" disabled="disabled" />
